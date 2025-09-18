@@ -13,7 +13,7 @@ To write a python program to find the rank of a matrix
 <img width="1266" height="670" alt="Screenshot 2025-09-18 091120" src="https://github.com/user-attachments/assets/474407d1-78f7-476a-be7a-959ff8516f01" />
 
 ## Output:
-<img width="201" height="1275" alt="Screenshot 2025-09-18 091136" src="https://github.com/user-attachments/assets/525fb066-d724-4397-b355-166365206448" />
+<img width="1275" height="201" alt="Screenshot 2025-09-18 091136" src="https://github.com/user-attachments/assets/127fc3cf-d0cd-4558-8a28-630da1069f8e" />
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
